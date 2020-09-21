@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Jerichothomason/joel_naren_colab.git/static/css/main.ea52cdd4.chunk.css",
-    "main.js": "/Jerichothomason/joel_naren_colab.git/static/js/main.28897ee2.chunk.js",
-    "main.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/main.28897ee2.chunk.js.map",
-    "runtime-main.js": "/Jerichothomason/joel_naren_colab.git/static/js/runtime-main.f4248c32.js",
-    "runtime-main.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/runtime-main.f4248c32.js.map",
-    "static/js/2.d13cb71e.chunk.js": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js",
-    "static/js/2.d13cb71e.chunk.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js.map",
-    "index.html": "/Jerichothomason/joel_naren_colab.git/index.html",
-    "precache-manifest.ad6298ed279402bf8b26240294754547.js": "/Jerichothomason/joel_naren_colab.git/precache-manifest.ad6298ed279402bf8b26240294754547.js",
-    "service-worker.js": "/Jerichothomason/joel_naren_colab.git/service-worker.js",
-    "static/css/main.ea52cdd4.chunk.css.map": "/Jerichothomason/joel_naren_colab.git/static/css/main.ea52cdd4.chunk.css.map",
-    "static/js/2.d13cb71e.chunk.js.LICENSE.txt": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js.LICENSE.txt"
+    "main.css": "/Jerichothomason/react-web/static/css/main.ea52cdd4.chunk.css",
+    "main.js": "/Jerichothomason/react-web/static/js/main.250a025c.chunk.js",
+    "main.js.map": "/Jerichothomason/react-web/static/js/main.250a025c.chunk.js.map",
+    "runtime-main.js": "/Jerichothomason/react-web/static/js/runtime-main.33864fd2.js",
+    "runtime-main.js.map": "/Jerichothomason/react-web/static/js/runtime-main.33864fd2.js.map",
+    "static/js/2.d13cb71e.chunk.js": "/Jerichothomason/react-web/static/js/2.d13cb71e.chunk.js",
+    "static/js/2.d13cb71e.chunk.js.map": "/Jerichothomason/react-web/static/js/2.d13cb71e.chunk.js.map",
+    "index.html": "/Jerichothomason/react-web/index.html",
+    "precache-manifest.fe65083db1912909d0ecd5e05799f98a.js": "/Jerichothomason/react-web/precache-manifest.fe65083db1912909d0ecd5e05799f98a.js",
+    "service-worker.js": "/Jerichothomason/react-web/service-worker.js",
+    "static/css/main.ea52cdd4.chunk.css.map": "/Jerichothomason/react-web/static/css/main.ea52cdd4.chunk.css.map",
+    "static/js/2.d13cb71e.chunk.js.LICENSE.txt": "/Jerichothomason/react-web/static/js/2.d13cb71e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4248c32.js",
+    "static/js/runtime-main.33864fd2.js",
     "static/js/2.d13cb71e.chunk.js",
     "static/css/main.ea52cdd4.chunk.css",
-    "static/js/main.28897ee2.chunk.js"
+    "static/js/main.250a025c.chunk.js"
   ]
 }
