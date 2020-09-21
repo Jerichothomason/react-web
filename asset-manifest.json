@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-web/static/css/main.ea52cdd4.chunk.css",
-    "main.js": "/react-web/static/js/main.69213a5b.chunk.js",
-    "main.js.map": "/react-web/static/js/main.69213a5b.chunk.js.map",
-    "runtime-main.js": "/react-web/static/js/runtime-main.a485ec1d.js",
-    "runtime-main.js.map": "/react-web/static/js/runtime-main.a485ec1d.js.map",
-    "static/js/2.d13cb71e.chunk.js": "/react-web/static/js/2.d13cb71e.chunk.js",
-    "static/js/2.d13cb71e.chunk.js.map": "/react-web/static/js/2.d13cb71e.chunk.js.map",
-    "index.html": "/react-web/index.html",
-    "precache-manifest.d40265f52c0c1d57ac048eb1873189d2.js": "/react-web/precache-manifest.d40265f52c0c1d57ac048eb1873189d2.js",
-    "service-worker.js": "/react-web/service-worker.js",
-    "static/css/main.ea52cdd4.chunk.css.map": "/react-web/static/css/main.ea52cdd4.chunk.css.map",
-    "static/js/2.d13cb71e.chunk.js.LICENSE.txt": "/react-web/static/js/2.d13cb71e.chunk.js.LICENSE.txt"
+    "main.css": "/Jerichothomason/joel_naren_colab.git/static/css/main.ea52cdd4.chunk.css",
+    "main.js": "/Jerichothomason/joel_naren_colab.git/static/js/main.28897ee2.chunk.js",
+    "main.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/main.28897ee2.chunk.js.map",
+    "runtime-main.js": "/Jerichothomason/joel_naren_colab.git/static/js/runtime-main.f4248c32.js",
+    "runtime-main.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/runtime-main.f4248c32.js.map",
+    "static/js/2.d13cb71e.chunk.js": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js",
+    "static/js/2.d13cb71e.chunk.js.map": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js.map",
+    "index.html": "/Jerichothomason/joel_naren_colab.git/index.html",
+    "precache-manifest.ad6298ed279402bf8b26240294754547.js": "/Jerichothomason/joel_naren_colab.git/precache-manifest.ad6298ed279402bf8b26240294754547.js",
+    "service-worker.js": "/Jerichothomason/joel_naren_colab.git/service-worker.js",
+    "static/css/main.ea52cdd4.chunk.css.map": "/Jerichothomason/joel_naren_colab.git/static/css/main.ea52cdd4.chunk.css.map",
+    "static/js/2.d13cb71e.chunk.js.LICENSE.txt": "/Jerichothomason/joel_naren_colab.git/static/js/2.d13cb71e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a485ec1d.js",
+    "static/js/runtime-main.f4248c32.js",
     "static/js/2.d13cb71e.chunk.js",
     "static/css/main.ea52cdd4.chunk.css",
-    "static/js/main.69213a5b.chunk.js"
+    "static/js/main.28897ee2.chunk.js"
   ]
 }
